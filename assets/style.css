@@ -28,21 +28,28 @@ header {
   top: 0;
 }
 
-.title {
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+.pics {
+  border: 15px white;
+  display: flex;
+  flex-wrap: wrap;
+  
 }
 
 img {
   max-width: 100%;
   height: auto;
+  border: 5px solid white;
 }
 
-pics {
-  background-color: green;
-}
+.fadein img{
+  opacity:0.5;
+  transition: 1s ease;
+  }
+  
+  .fadein img:hover{
+  opacity:1;
+  transition: 1s ease;
+  }
 
 h1 {
   font-size: 400%;
@@ -56,9 +63,10 @@ h2 {
   padding: 20px;
 }
 
-p{{
+p{
   padding: 20px;
-}}
+  font-size: 120%;
+}
 
 .sec {
   display: flex;
@@ -92,4 +100,16 @@ body {
 
 .worksec {
   justify-content: space-between;
+}
+
+.pictext{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
 }
