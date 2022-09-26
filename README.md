@@ -15,13 +15,13 @@ functional, accessible, and visually pleasing.
 
 ## Screenshot
 
-????
+<img src ="/Users/skipperthurman/bootcamp/module-2-challenge/module-2-challenge/assets/images/Screen Shot 2022-09-26 at 2.16.55 PM.png">
 
 ## Links
 
-<a href= >Link to Deployed Page</a>
+<a href=>Link to Deployed Page</a>
 
-<a href= >Link to Github Page with Code</a>
+<a href="https://github.com/skip-thurm/module-2-challenge">Link to Github Page with Code</a>
 
 ## Author
 
