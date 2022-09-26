@@ -19,7 +19,7 @@ functional, accessible, and visually pleasing.
 
 ## Links
 
-<a href=>Link to Deployed Page</a>
+<a href="https://skip-thurm.github.io/module-2-challenge">Link to Deployed Page</a>
 
 <a href="https://github.com/skip-thurm/module-2-challenge">Link to Github Page with Code</a>
 
