@@ -122,3 +122,29 @@ body {
   font-size: 120%;
   text-decoration: underline;
 }
+
+.scaling {
+  display: flex;
+  
+}
+
+/* Scaling for devices */
+
+@media screen and (min-width: 1024px){
+  .scaling{
+  }
+}
+
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px){
+  .scaling{
+    width: 400px;
+    height: 400px;
+  }
+}
+
+@media screen and (max-device-width: 640px) {
+  .scaling {
+    width: 400px;
+    height: 200px;
+  }
+}
