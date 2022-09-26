@@ -15,7 +15,7 @@ functional, accessible, and visually pleasing.
 
 ## Screenshot
 
-<img src ="/Users/skipperthurman/bootcamp/module-2-challenge/module-2-challenge/assets/images/Screen Shot 2022-09-26 at 2.16.55 PM.png">
+<img src ="/Users/skipperthurman/bootcamp/module-2-challenge/module-2-challenge/assets/images/screenshot.png">
 
 ## Links
 
