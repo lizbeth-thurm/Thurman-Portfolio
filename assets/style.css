@@ -32,7 +32,7 @@ header {
   border: 15px white;
   display: flex;
   flex-wrap: wrap;
-  
+  width: auto;
 }
 
 img {
@@ -125,7 +125,6 @@ body {
 
 .scaling {
   display: flex;
-  
 }
 
 /* Scaling for devices */
