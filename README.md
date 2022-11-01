@@ -1,5 +1,6 @@
-# Project Title
+# Thurman Portfolio
 
+Thurman Portfolio
 Module 2 Challenge
 
 ## Description
