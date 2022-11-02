@@ -2,6 +2,13 @@
   font-family: Arial;
 }
 
+p {
+  font-weight: bold;
+  padding: 20px;
+  font-size: 120%;
+  justify-content: left;
+}
+
 body {
   display: flex;
   flex-direction: column;
@@ -19,26 +26,20 @@ header {
 
 /* Creates vertical line */
 
-.vl {
-  border-left: 6px solid black;
-  height: auto;
-  left: 50%;
-  padding: 20px;
-  margin-left: -3px;
-  top: 0;
-}
-
-.pics {
-  border: 15px white;
+#cinematepic {
+  border: 15px;
+  border-color: white;
   display: flex;
-  flex-wrap: wrap;
-  width: auto;
+  width: 50%;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-  border: 5px solid white;
+.bigsec{
+  justify-content: left;
+}
+
+#projectbox {
+  display: flex;
+  justify-content: left;
 }
 
 .fadein img{
@@ -63,10 +64,7 @@ h2 {
   padding: 20px;
 }
 
-p{
-  padding: 20px;
-  font-size: 120%;
-}
+
 
 .sec {
   display: flex;
@@ -99,8 +97,10 @@ body {
 }
 
 .worksec {
-  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
 }
+
 
 .pictext{
   position: relative;
